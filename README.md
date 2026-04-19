@@ -114,7 +114,7 @@ The dashboard highlights key customers such as:
 ---
 
 ## 📷 Dashboard Preview
-![Sales Dashboard](https://drive.google.com/file/d/166fGbcRH5g8z9lrPI-dnlc8hCXFDmyhX/view?usp=sharing)
+![Sales Dashboard](https://drive.google.com/file/d/166fGbcRH5g8z9lrPI-dnlc8hCXFDmyhX/view?usp=sharing).
 
 ---
 
